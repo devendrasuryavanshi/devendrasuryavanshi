@@ -19,7 +19,7 @@ I draw inspiration from visionaries like **SUNDAR PICHAI** and **STEVE JOBS**, w
 
 ### 💼 Portfolio
 
-Feel free to explore my work:
+Feel free to explore my work: **Coming Soon**
 
 Coming Soon -
 
