@@ -1,6 +1,6 @@
 # Hey there, I'm Devendra Suryavnashi 👋
 
-## 🚀 Full Stack Web Developer (MERN) | Advanced Prompt Engineer | AI Enthusiast
+## 🚀 DSA + Java | Full Stack Web Developer (MERN) | Advanced Prompt Engineer
 
 Welcome to my GitHub profile! I'm a passionate developer with a deep love for nature and a commitment to a sustainable future.
 
