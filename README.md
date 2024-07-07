@@ -75,5 +75,6 @@ I'm always excited to collaborate and discuss ideas. Let's connect:
 <a href="https://x.com/Devendra_Dood" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1720137600&semt=ais_user" alt="Devendra_Dood" width="30" /></a>
 <a href="https://www.instagram.com/devendrasooryavanshee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendrasooryavanshee" width="30" /></a>
 </p>
+<p> 📧 Email: <a>devendrasooryavanshee@gmail.com</a></p>
 
 Thank you for stopping by! Together, let's code for a brighter and more sustainable future. 🌿
