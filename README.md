@@ -1,80 +1,81 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHrXVtO9OmDog/profile-displaybackgroundimage-shrink_350_1400/B4DZafmGCnHEAY-/0/1746434286359?e=1752710400&v=beta&t=cquyPoTwJC3j7u1jNu8hRPmeoWTusSztMRSBn340mSQ)
 
-<h1 align="center">Hi 👋, I'm Devendra Suryavanshi</h1>
+<h1 align="center">Devendra Suryavanshi</h1>
 
-<p align="center">I'm a passionate full stack web developer.</p>
+<div align="center">
+  <a href="https://linkedin.com/in/devendrasuryavanshi" target="_blank" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
+  <a href="https://github.com/devendrasuryavanshi" target="_blank" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"></a>
+  <a href="mailto:devendrasooryavanshee@gmail.com" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
+  <a href="YOUR_CODOLIO_PROFILE_LINK_HERE" target="_blank" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/Codolio-101010?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="Codolio"></a>
+</div>
 
-<img align="right" alt="Coding" style="border-radius: 5px; margin: 10px" width="400" src="https://j.gifs.com/KdnqJW.gif">
+## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/user-male-circle.png" alt="about-icon"/> About Me
 
-### 🌱 About Me
+I'm Devendra, As a first-year BCA student and future software engineer, I build software that is functional, fast, well-designed, and sustainable. I use my skills in MERN Stack web development and Data Structures & Algorithms (Java & C++) to create new solutions that help make tomorrow's technology better and more environmentally friendly.
 
-- 💡 I’m currently learning Data Structures and Algorithms (DSA) and Next.JS.
-- 🚀 DSA + Java | Full Stack Web Developer (MERN) | Advanced Prompt Engineer. 
-- 👨‍💻 Full-stack web developer with a focus on the MERN stack.
-- 🌍 Dedicated to the principles of sustainability and the preservation of our Earth.
-- 🐾 Animal lover who believes in the importance of protecting our planet's biodiversity.
-- 🎨 Creative spirit who enjoys creating art, crafting, and coding.
-- 💬 Ask me about DSA and MERN.
+## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/development-skill.png" alt="skills-icon"/> Core Competencies
 
-### 🛠️ Languages and Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-007396?style=flat&logo=java&logoColor=white)
+![Google Cloud AI](https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/rocket.png" alt="projects-icon"/> Featured Projects
+
+*Click on a project title to expand and view details.*
+
+<details>
+<summary><b style="font-size: 20px;">Codeforces Lite</b> <i>(Chrome Extension)</i></summary>
+
+![Codeforces Lite Preview](https://drive.google.com/thumbnail?id=17Vza76996wugij0c9bN6o8a2f7YoVIPU)
+
+A sidebar Chrome extension that enhances Codeforces, making it a more productive platform for competitive programmers.
+
+**Tech:** React.js, TypeScript, Tailwind CSS
+</details>
+
+<details>
+<summary><b style="font-size: 20px;">PurePick</b> <i>(AI-Powered Product Analysis Platform)</i></summary>
+
+![PurePick Preview](https://github.com/devendrasuryavanshi/PurePick/raw/main/public/Assets/demo1.png)
+
+PurePick is an innovative consumer platform that provides real-time AI analysis of products through advanced image processing and natural language understanding. The system features smart scanning with barcode detection, comprehensive ingredient safety assessment, personalized health impact analysis, and an interactive AI chat for product-specific insights. Built with Next.js, Node.js, and Google Gemini Pro, PurePick helps consumers make informed choices by delivering instant, detailed information about product safety, health implications, and environmental impact.
+
+**Tech:** Next.js, TypeScript, Node.js, Express.js, Socket.IO, MongoDB, Google Cloud AI
+
+[View Live Demo ➔](https://purepick.vercel.app/)
+</details>
+
+## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/trophy.png" alt="achievements-icon"/> Key Achievements
+
+- <img width="22" height="22" src="https://img.icons8.com/ios-filled/50/FFFFFF/star.png" alt="star"/> **Ranked 3rd:** All-India Frontend Battle '24 at IIT Bhubaneswar.
+
+- <img width="22" height="22" src="https://img.icons8.com/ios-filled/50/FFFFFF/code.png" alt="code"/> **LeetCode:** 530+ DSA questions (Max: 1538) | 900+ across all platforms.
+
+- <img width="22" height="22" src="https://img.icons8.com/ios-filled/50/FFFFFF/codechef.png" alt="codechef"/> **CodeChef:** 2 STAR Competitive Programmer.
+
+- <img width="22" height="22" src="https://img.icons8.com/ios-filled/50/FFFFFF/idea.png" alt="idea"/> **Hackathon Innovator:** Real-Time Collaboration Tool @ Prasunethon (3000+ teams).
+
+## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/bar-chart.png" alt="stats-icon"/> GitHub Insights
+
+<div>
+  <a href="https://github.com/devendrasuryavanshi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devendrasuryavanshi&show_icons=true&theme=transparent&hide_border=true&title_color=888888&text_color=FFFFFF&icon_color=888888&ring_color=888888" alt="Devendra's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrasuryavanshi&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=FFFFFF&langs_count=8" alt="Devendra's Top Languages"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>"Let’s go invent tomorrow instead of worrying about what happened yesterday."</i> – Steve Jobs<br/>
 </p>
-
-
-### 🌟 My Inspiration
-
-I draw inspiration from visionaries like **SUNDAR PICHAI** and **STEVE JOBS**, who've changed the world through technology and innovation. Their influence has driven me to pursue a career that has a positive impact on our planet and its inhabitants.
-
-### 💼 Portfolio
-
-Feel free to explore my work:
-
-Coming Soon -
-
-### 🌎 Let's Connect
-
-I'm always excited to collaborate and discuss ideas. Let's connect:
-
-- 📧 Email: devendrasooryavanshee@gmail.com
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-<a href="https://www.linkedin.com/in/devendrasuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendrasuryavanshi" width="30" /></a>
-<a href="https://leetcode.com/u/devendrasuryavanshi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="devendrasuryavanshi" width="30" /></a>
-<a href="https://x.com/Devendra_Dood" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1720137600&semt=ais_user" alt="Devendra_Dood" width="30" /></a>
-<a href="https://www.instagram.com/devendrasooryavanshee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendrasooryavanshee" width="30" /></a>
-</p>
-
-Thank you for stopping by! Together, let's code for a brighter and more sustainable future. 🌿
