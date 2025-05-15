@@ -13,7 +13,7 @@
 
 I'm Devendra, As a first-year BCA student and future software engineer, I build software that is functional, fast, well-designed, and sustainable. I use my skills in MERN Stack web development and Data Structures & Algorithms (Java & C++) to create new solutions that help make tomorrow's technology better and more environmentally friendly.
 
-## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/development-skill.png" alt="skills-icon"/> Core Competencies
+## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/development-skill.png" alt="skills-icon"/> Skills & Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
