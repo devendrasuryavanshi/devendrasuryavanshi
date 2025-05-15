@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/devendrasuryavanshi" target="_blank" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="https://github.com/devendrasuryavanshi" target="_blank" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"></a>
   <a href="mailto:devendrasooryavanshee@gmail.com" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"></a>
-  <a href="YOUR_CODOLIO_PROFILE_LINK_HERE" target="_blank" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/Codolio-101010?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="Codolio"></a>
+  <a href="https://codolio.com/profile/devendrasuryavanshi" target="_blank" style="margin: 0 4px; text-decoration: none;"><img src="https://img.shields.io/badge/Codolio-101010?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="Codolio"></a>
 </div>
 
 ## <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/888888/user-male-circle.png" alt="about-icon"/> About Me
