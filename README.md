@@ -41,6 +41,9 @@ I'm Devendra, As a first-year BCA student and future software engineer, I build 
 A sidebar Chrome extension that enhances Codeforces, making it a more productive platform for competitive programmers.
 
 **Tech:** React.js, TypeScript, Tailwind CSS
+
+[Chrome](https://chromewebstore.google.com/detail/hgcgfmgjkfjmhoebifgmbfipinkkjgco?utm_source=item-share-cb) <br>
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/codeforces-lite/)
 </details>
 
 <details>
